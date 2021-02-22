@@ -1,4 +1,3 @@
-# DS_SRC
 # Running an algorithm implementation
 
 To compile and run any of the algorithms here, you need at least JDK version 8. Gradle can make things more convenient for you, but it is not required.
